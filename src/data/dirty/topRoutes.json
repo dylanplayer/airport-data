@@ -1,0 +1,122 @@
+[
+  {
+    "start": "CJU",
+    "end": "GMP"
+  },
+  {
+    "start": "SYD",
+    "end": "MEL"
+  },
+  {
+    "start": "DEL",
+    "end": "BOB"
+  },
+  {
+    "start": "FUK",
+    "end": "HND"
+  },
+  {
+    "start": "DPS",
+    "end": "CGK"
+  },
+  {
+    "start": "RUH",
+    "end": "JED"
+  },
+  {
+    "start": "CGK",
+    "end": "KNO"
+  },
+  {
+    "start": "HND",
+    "end": "CTS"
+  },
+  {
+    "start": "HAN",
+    "end": "SGN"
+  },
+  {
+    "start": "CGK",
+    "end": "UPG"
+  },
+  {
+    "start": "JFK",
+    "end": "LAX"
+  },
+  {
+    "start": "LGA",
+    "end": "ORD"
+  },
+  {
+    "start": "HNL",
+    "end": "OGG"
+  },
+  {
+    "start": "ATL",
+    "end": "MCO"
+  },
+  {
+    "start": "LAS",
+    "end": "LAX"
+  },
+  {
+    "start": "DEN",
+    "end": "LAS"
+  },
+  {
+    "start": "ANC",
+    "end": "SEA"
+  },
+  {
+    "start": "LAX",
+    "end": "ORD"
+  },
+  {
+    "start": "LAX",
+    "end": "SFO"
+  },
+  {
+    "start": "DFW",
+    "end": "LAX"
+  },
+  {
+    "start": "JFK",
+    "end": "LHR"
+  },
+  {
+    "start": "KUL",
+    "end": "SIN"
+  },
+  {
+    "start": "CAI",
+    "end": "JED"
+  },
+  {
+    "start": "AYT",
+    "end": "VKO"
+  },
+  {
+    "start": "DXB",
+    "end": "RUH"
+  },
+  {
+    "start": "BOM",
+    "end": "DXB"
+  },
+  {
+    "start": "DXB",
+    "end": "LHR"
+  },
+  {
+    "start": "DUS",
+    "end": "PMI"
+  },
+  {
+    "start": "CPH",
+    "end": "OSL"
+  },
+  {
+    "start": "CAI",
+    "end": "RUH"
+  }
+]

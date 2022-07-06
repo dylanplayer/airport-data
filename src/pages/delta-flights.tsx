@@ -10,7 +10,7 @@ const Flights: NextPage = () => {
 
   useEffect(() => {
     setTimeout(() => {
-      fetch('/api/flights')
+      fetch('/api/delta-flights')
         .then((res) => res.json())
         .then((data:FlightType[]) => {
           setFlights(data);
@@ -21,8 +21,8 @@ const Flights: NextPage = () => {
   return (
     <>
       <Head>
-        <title>Top Flights</title>
-        <meta name="description" content="Data on the top flights." />
+        <title>Top Delta Flights</title>
+        <meta name="description" content="Data on Delta's top flights." />
         <link rel="icon" href="/favicon.ico" />
       </Head>
       <Globe
@@ -37,7 +37,7 @@ const Flights: NextPage = () => {
         arcDashLength={0.5}
         arcDashGap={1}
         arcDashInitialGap={() => Math.random()}
-        arcDashAnimateTime={1500}
+        arcDashAnimateTime={3000}
         arcColor={(d:any) => [`rgba(0, 255, 0, 100)`, `rgba(255, 0, 0, 190)`]}
         arcsTransitionDuration={0}
       />

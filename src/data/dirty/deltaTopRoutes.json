@@ -1,0 +1,62 @@
+[
+  {
+    "start": "ATL",
+    "end": "LGA"
+  },
+  {
+    "start": "ATL",
+    "end": "MCO"
+  },
+  {
+    "start": "ATL",
+    "end": "BOS"
+  },
+  {
+    "start": "ATL",
+    "end": "FLL"
+  },
+  {
+    "start": "ATL",
+    "end": "TPA"
+  },
+  {
+    "start": "ATL",
+    "end": "LAX"
+  },
+  {
+    "start": "BOS",
+    "end": "LGA"
+  },
+  {
+    "start": "ATL",
+    "end": "MSP"
+  },
+  {
+    "start": "ATL",
+    "end": "RDU"
+  },
+  {
+    "start": "ATL",
+    "end": "DCA"
+  },
+  {
+    "start": "ATL",
+    "end": "CHS"
+  },
+  {
+    "start": "ATL",
+    "end": "JAX"
+  },
+  {
+    "start": "ATL",
+    "end": "DTW"
+  },
+  {
+    "start": "ORD",
+    "end": "LGA"
+  },
+  {
+    "start": "ATL",
+    "end": "EWR"
+  }
+]

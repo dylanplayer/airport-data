@@ -10,8 +10,13 @@ const Home: NextPage = () => {
         <meta name="description" content="Airport Data" />
         <link rel="icon" href="/favicon.ico" />
       </Head>
-      <Link href={'/airports/'}>Airports</Link>
-      <Link href={'/flights/'}>Flights</Link>
+      <main>
+        <nav>
+          <Link href={'/airports/'}>Airports</Link>
+          <Link href={'/flights/'}>Flights</Link>
+          <Link href={'/delta-flights/'}>Delta Flights</Link>
+        </nav>
+      </main>
     </>
   );
 };

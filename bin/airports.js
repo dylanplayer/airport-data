@@ -1,6 +1,6 @@
 const fs = require('fs');
 
-const data = JSON.parse(fs.readFileSync('../src/data/airportsObj.json'));
+const data = JSON.parse(fs.readFileSync('../src/data/dirty/airports.json'));
 
 const airports = [];
 
